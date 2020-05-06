@@ -130,3 +130,8 @@ data-bin/
 
 # Experimental Folder
 experimental/*
+examples/*
+examples/language_model/wikitext-103-v1.zip
+examples/language_model/wikitext-103/wiki.test.tokens
+examples/language_model/wikitext-103/wiki.train.tokens
+examples/language_model/wikitext-103/wiki.valid.tokens
